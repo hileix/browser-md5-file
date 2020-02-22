@@ -1,15 +1,17 @@
-# browser-md5-file [![NPM Version](http://img.shields.io/npm/v/browser-md5-file.svg?style=flat)](https://www.npmjs.org/package/browser-md5-file)
+# browser-md5-file
+
+## Unlike [browser-md5-file](https://github.com/forsigner/browser-md5-file), the dist source is es5.
+
 
 MD5 file in browser. Base on [js-spark-md5](https://github.com/satazor/js-spark-md5).
 
-### Demo
+<!-- ### Demo -->
 
-[demo](http://forsigner.com/browser-md5-file)
-
+<!-- [demo](http://forsigner.com/browser-md5-file) -->
 ### Installation
 
 ```bash
-$ npm i browser-md5-file -S
+$ npm i @hife/browser-md5-file -S
 ```
 
 ### Usage
